@@ -1,3 +1,28 @@
-body{
-    background: rgba(192, 62, 192, 0.2);
+.wrapper{
+    margin: 0 auto;
+    width: 80%;
 }
+body{
+    padding: 0rem 13rem 0rem 20rem;
+}
+h1{
+    padding: 0rem 13rem 0rem 20rem;
+}
+img{
+    padding:0rem 13rem 0rem 7rem ;
+}
+h2{
+    padding: 0rem 13rem 0rem 11rem
+}
+ul{
+    padding: 0rem 13rem 0rem 12rem
+}
+p{
+    padding: 0rem 18rem 0rem 11rem
+}
+table{
+    padding: 0rem 13rem 0rem 11rem
+}
+}
+
+
