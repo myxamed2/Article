@@ -12,17 +12,24 @@ img{
     padding:0rem 13rem 0rem 7rem ;
 }
 h2{
-    padding: 0rem 13rem 0rem 11rem
+    padding: 0rem 13rem 0rem 11rem;
 }
 ul{
-    padding: 0rem 13rem 0rem 12rem
+    padding: 0rem 13rem 0rem 12rem;
 }
 p{
-    padding: 0rem 18rem 0rem 11rem
+    padding: 0rem 18rem 0rem 11rem;
 }
 table{
-    padding: 0rem 13rem 0rem 11rem
+    border-collapse: collapse;
+    border: 1px solid grey;
+    padding: 0rem 13rem 0rem 11rem;
 }
-}
+th {
+    border: 1px solid grey;
+ }
+ th, td {
+    border: 1px solid grey;
+ }
 
 
