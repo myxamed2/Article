@@ -1,0 +1,43 @@
+.wrapper{
+    margin: 0 auto;
+    width: 80%;  
+}
+h1  {
+  text-align: center
+}
+h2{
+  margin:1rem 23.1875rem;
+}
+img{
+  display:block;
+  margin: 0 auto;
+}
+p{
+  margin:1rem 23.1875rem;
+}
+ul{
+  margin:1rem 22rem;
+}
+table {
+  margin:0 auto;
+  font-family: Rubik;
+  font-size: 13px;
+  width: 33%;
+  text-align: center;
+  border-collapse: collapse;
+  border-top: 1px solid #000000;
+  border-bottom: 1px solid #000000;
+}
+th {
+  font-size: 18px;
+  font-weight: Rubik;
+  border-right: 1px solid #000000;
+  border-left: 1px solid #000000;
+  padding: 10px;
+}
+td {
+  border-right: 1px solid #000000;
+  border-left: 1px solid #000000;
+  padding: 8px;
+}
+
