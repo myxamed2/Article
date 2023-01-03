@@ -1,7 +1,22 @@
 .wrapper{
     margin: 0 auto;
-    width: 80%;  
+    width: 80%;      
 }
+@media (max-width:1200px){
+  .wrapper{
+    /* max-width: 970px; */
+  }
+}
+@media (max-width: 992px){
+  .wrapper{
+    /* max-width: 750px; */
+  }
+}
+@media (max-width:768px){
+  p{
+   margin: 0px 24px;
+  }
+}  
 h1  {
   text-align: center
 }
@@ -13,7 +28,8 @@ img{
   margin: 0 auto;
 }
 p{
-  margin:1rem 23.1875rem;
+  margin:1rem 22.9375rem;
+  text-align: justify;
 }
 ul{
   margin:1rem 22rem;
