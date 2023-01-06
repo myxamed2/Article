@@ -1,6 +1,7 @@
 .wrapper{
-    margin: 0 auto;
-    width: 80%;      
+   /* margin:1rem 23.1875rem;  */
+    width: 80%; 
+    margin: 0 auto;     
 }
 @media (max-width:1200px){
   .wrapper{
@@ -21,18 +22,23 @@ h1  {
   text-align: center
 }
 h2{
-  margin:1rem 23.1875rem;
+  /* margin:1rem 23.1875rem; */
 }
+.main_image{
+  width: 100%;
+
+} 
 img{
   display:block;
-  margin: 0 auto;
+  width: 100%;
+  margin:0rem 1.5rem;
 }
 p{
-  margin:1rem 22.9375rem;
+  /* margin:1rem 23.1875rem; */
   text-align: justify;
 }
 ul{
-  margin:1rem 22rem;
+  /* margin:1rem 22rem; */
 }
 table {
   margin:0 auto;
