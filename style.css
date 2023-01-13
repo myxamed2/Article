@@ -32,6 +32,7 @@ img{
   display:block;
   width: 100%;
   margin:0rem 1.5rem;
+
 }
 p{
   /* margin:1rem 23.1875rem; */
@@ -61,5 +62,9 @@ td {
   border-right: 1px solid #000000;
   border-left: 1px solid #000000;
   padding: 8px;
+}
+.reaction{
+  display: inline-block;
+  text-align: center
 }
 
