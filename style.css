@@ -2,6 +2,9 @@
     width: 80%; 
     margin: 0 auto;     
 }
+
+
+
 @media (max-width:1200px){
   .wrapper{
    
@@ -20,26 +23,25 @@
 h1  {
   text-align: center
 }
-h2{
 
-}
+
+
 .main_image{
   width: 100%;
-
 } 
+
+
 img{
   display:block;
   width: 100%;
- 
-
 }
-p{
 
+
+p{
   text-align: justify;
 }
-ul{
- 
-}
+
+
 table {
   margin:0 auto;
   font-family: Rubik;
@@ -62,19 +64,35 @@ td {
   border-left: 1px solid #000000;
   padding: 8px;
 }
+
+
 .parent{
   display: flex;
   width:100%;
   justify-content: center;
-  /* margin: 0rem 10rem; */
 }
 .reaction{
   display: flex;
-  /* justify-content: center; */
-  /* flex-basis: 100%; */
-  /* flex-shrink: ; */
+  margin-top: 3.75rem;
+  margin-bottom: 3.75rem;
+}
+.platformer{
+  display: flex;
+  justify-content: center;
+  height: 550px ;
+  width: 100%;
+  align-items: center;
+  background-color:#e5eaf8;
+  
 
 }
-
-
-
+.plreaction{
+  display: flex;
+  width: 25%;
+}
+h3{
+ display: flex;
+ justify-content: center;
+ margin-top: 20px;
+ line-height: 32px;
+}
