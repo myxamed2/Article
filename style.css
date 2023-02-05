@@ -79,7 +79,7 @@ td {
 .platformer{
   display: flex;
   justify-content: center;
-  height: 550px ;
+  height: 400px ;
   width: 100%;
   align-items: center;
   background-color:#e5eaf8;
@@ -92,7 +92,27 @@ td {
 }
 h3{
  display: flex;
- justify-content: center;
- margin-top: 20px;
- line-height: 32px;
+ justify-content: center; 
+}
+button{
+  background-color: #1874FF;
+  color: #e5eaf8;
+  border-color: #1874FF;
+  
+}
+input{
+  background-color: #fff;
+  border-color: #fff;
+  size: 20px;
+}
+.advertisement{
+  display: flex;
+  margin-top: 4rem;
+  margin-left: 20%;
+}
+
+form{
+  display: flex;
+  margin-left: 10%;
+  margin-right: 20%;
 }
