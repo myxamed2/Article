@@ -79,7 +79,7 @@ td {
 .platformer{
   display: flex;
   justify-content: center;
-  height: 400px ;
+  height: 100% ;
   width: 100%;
   align-items: center;
   background-color:#e5eaf8;
@@ -89,6 +89,7 @@ td {
 .plreaction{
   display: flex;
   width: 25%;
+  
 }
 h3{
  display: flex;
@@ -115,4 +116,14 @@ form{
   display: flex;
   margin-left: 10%;
   margin-right: 20%;
+}
+.plborder{
+  display: flex;
+  height: 400px;
+  align-items: center;
+}
+.reactform{
+  display: flex;
+  align-items: center;
+  height: 40px;
 }
