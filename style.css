@@ -117,11 +117,7 @@ form{
   margin-left: 10%;
   margin-right: 20%;
 }
-.plborder{
-  display: flex;
-  height: 400px;
-  align-items: center;
-}
+
 .reactform{
   display: flex;
   align-items: center;
