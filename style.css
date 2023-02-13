@@ -89,8 +89,39 @@ td {
 .plreaction{
   display: flex;
   width: 25%;
+  
 }
 h3{
  display: flex;
- justify-content: center;
+ feature/A-9
+ justify-content: center; 
+}
+button{
+  background-color: #1874FF;
+  color: #e5eaf8;
+  border-color: #1874FF;
+  
+}
+input{
+  background-color: #fff;
+  border-color: #fff;
+  size: 20px;
+}
+.advertisement{
+  display: flex;
+  margin-top: 4rem;
+  margin-left: 20%;
+}
+
+form{
+  display: flex;
+  margin-left: 10%;
+  margin-right: 20%;
+}
+
+.reactform{
+  display: flex;
+  align-items: center;
+  height: 40px;
+
 }
