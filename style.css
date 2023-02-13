@@ -93,6 +93,7 @@ td {
 }
 h3{
  display: flex;
+ feature/A-9
  justify-content: center; 
 }
 button{
@@ -122,4 +123,5 @@ form{
   display: flex;
   align-items: center;
   height: 40px;
+
 }
